@@ -1,0 +1,2 @@
+# DecodeUTF8toSJIS_forMSX
+MSX BASICでUTF8テキストをSJISに変換し表示するプログラム
